@@ -1,1 +1,1 @@
-Esta es mi primer archivo del curso de git y github y nada
+Esta es mi primer archivo del curso de git y github. estamos haciendo cambios por aca
