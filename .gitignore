@@ -1,2 +1,2 @@
- *.jpg
- *.jpeg
+ /imagenes/*.jpg
+ /imagenes/*.jpeg
